@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nazarseven/npizza.git/static/css/main.51705a3f.css",
+    "main.js": "/Nazarseven/npizza.git/static/js/main.a1ee023e.js",
+    "index.html": "/Nazarseven/npizza.git/index.html",
+    "main.51705a3f.css.map": "/Nazarseven/npizza.git/static/css/main.51705a3f.css.map",
+    "main.a1ee023e.js.map": "/Nazarseven/npizza.git/static/js/main.a1ee023e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51705a3f.css",
+    "static/js/main.a1ee023e.js"
+  ]
+}
